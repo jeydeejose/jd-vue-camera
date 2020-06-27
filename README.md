@@ -13,6 +13,6 @@ SETUP>>
 
 USAGE>>
 1. Open the blade template that you wish to have this vue function.
-2. Paste << <cam-component></cam-component> >>
+2. Paste << < cam-component >< /cam-component > >>
 
 Thank you! #ThinkPossible
